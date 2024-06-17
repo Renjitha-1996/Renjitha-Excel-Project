@@ -1,1 +1,3 @@
 # Renjitha-Excel-Project
+This project is based on bike sales data. Three methods were used by me to determine the purchase details of the bike in three regions. The first method involved cleaning and preprocessing the entire dataset. The second method involved creating pivot tables and charts that were based on the purchase of bikes by both married and single males and females in three regions. In the third method, I made an interactive dashboard by utilizing pivot tables and charts.
+Using the three methods, I came to the conclusion that the number of bikes bought by single individuals is high in the data provided. The majority of single individuals are male.
